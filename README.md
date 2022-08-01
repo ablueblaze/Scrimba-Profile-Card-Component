@@ -55,8 +55,10 @@ scrimba.com (Front end course work)
 
 #### Resources
 
+- Scrimba
 - unsplash
 - fontawesome
+
 
 ## Author
 
