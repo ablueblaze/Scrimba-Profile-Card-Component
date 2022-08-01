@@ -28,28 +28,16 @@ scrimba.com (Front end course work)
 
 [Project Demo](Demo.Url)
 
-[Github Repo](github.repo)
+[Github Repo](https://github.com/ablueblaze/Scrimba-Profile-Card-Component)
 
 ### Current/Continued Development
 
-- Where in the project am I? 
-  Sketching out the layout for the project
-
-- What is the next thing being developed?
-  Create needed components into the project
-
-
 - What would I like to do to improve the project in the future?
-- Potential feature list?
+  Not much, since it's such a simple app I can't think of much.
+  Though I would prefer to change the styling to be contained in the individual components. Unfortunately I don't know how to do that yet.
 
 
 ## My Process
-
-- General Review of project
-  - Is there anything to note about this project?
-  - What elements of the project do I forsee having trouble with?
-  - What elements do I want to focus on as a way to continue my skill advancement?
-  
 
 -Basic plan
   - Plan outline:
@@ -65,10 +53,10 @@ scrimba.com (Front end course work)
   CSS
   Flex box
 
-### What I Learned
+#### Resources
 
-- TBA
-
+- unsplash
+- fontawesome
 
 ## Author
 
