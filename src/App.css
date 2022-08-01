@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: #23252c;
+}
+
+.App {
+  background-color: #1A1B21;
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title--job-title {
+  color: #F3BF99;
+}
+.links {
+  width: 20px;
+  filter: invert();
+  opacity: .8;
+}
